@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "preact": "^10.5.12",
+    "preact-router": "^3.2.1"
+  },
+  "lock": {
+    "preact#^10.5.12": "preact@v10.5.12-AUHDlG9c8v865CiuCz34",
+    "preact-router#^3.2.1": "preact-router@v3.2.1-KwToDVaxOFWdTIiHT4th"
+  }
+}

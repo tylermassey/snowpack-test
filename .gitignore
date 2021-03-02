@@ -1,0 +1,5 @@
+.DS_Store
+.snowpack
+build
+node_modules
+.vscode
